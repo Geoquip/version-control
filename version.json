@@ -1,14 +1,14 @@
 {
     "01": {
         "version": "1.2.6",
-        "release date": "12/01/2026"
+        "release_date": "12/01/2026"
     },
     "02": {
         "version": "",
-        "release date": ""
+        "release_date": ""
     },
     "": {
         "version": "",
-        "release date": ""
+        "release_date": ""
     }
 }
